@@ -172,7 +172,7 @@ input.onButtonPressed(Button.B, function () {
                 basic.clearScreen()
                 basic.pause(100)
             }
-            music.setVolume(40)
+            music.setVolume(255)
             music.playMelody("C D E F G A B C5 ", 600)
             music.playMelody("C D E F G A B C5 ", 600)
             music.playMelody("C C C C C C C C ", 600)
