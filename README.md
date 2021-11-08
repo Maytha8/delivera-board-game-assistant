@@ -1,14 +1,7 @@
 
 > Open this page at [https://maytha8.github.io/board-game-assistant/](https://maytha8.github.io/board-game-assistant/)
 
-## Use as Extension
-
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/maytha8/board-game-assistant** and import
+This is the assistant to the board game I have made: Delivera. For more about this game, click [here](game.md)
 
 ## Edit this project ![Build status badge](https://github.com/maytha8/board-game-assistant/workflows/MakeCode/badge.svg)
 
