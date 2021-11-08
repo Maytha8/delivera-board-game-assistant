@@ -14,3 +14,12 @@ This game is suitable for players 8+ years old and this board game is to be play
 - A standard 6-sided dice
 - A counter for each player
 - The board
+
+### Incorporation of Micro:bit
+tbd
+
+### Instructions
+Instructions can be accessed [here](#) tbd
+
+### To Win
+tbd
