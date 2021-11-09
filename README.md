@@ -1,5 +1,5 @@
 
-> Open this page at [https://maytha8.github.io/board-game-assistant/](https://maytha8.github.io/board-game-assistant/)
+> Open this page at [https://maytha8.github.io/delivera-board-game-assistant/](https://maytha8.github.io/board-game-assistant/)
 
 This is the assistant to the board game I have made: Delivera. For more about this game, click [here](/docs/game.md)
 
