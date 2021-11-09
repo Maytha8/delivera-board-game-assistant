@@ -1,7 +1,7 @@
 
 > Open this page at [https://maytha8.github.io/board-game-assistant/](https://maytha8.github.io/board-game-assistant/)
 
-This is the assistant to the board game I have made: Delivera. For more about this game, click [here](game.md)
+This is the assistant to the board game I have made: Delivera. For more about this game, click [here](/docs/game.md)
 
 ## Edit this project ![Build status badge](https://github.com/maytha8/board-game-assistant/workflows/MakeCode/badge.svg)
 
