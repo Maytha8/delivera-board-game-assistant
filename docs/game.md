@@ -1,5 +1,6 @@
 # Delivera
 **A board game by [Maytha8](https://github.com/Maytha8)**
+![Player requirements](player-requirements.png)
 
 This game was made as part of a school assessment.
 
