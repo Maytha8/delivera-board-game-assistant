@@ -141,6 +141,20 @@ function init () {
     ]
     player_progress = []
 }
+input.onButtonPressed(Button.AB, function () {
+    if (reset) {
+        basic.showString("Delivera")
+        stage = 0
+        show_compact_number(players)
+        reset = 0
+    } else {
+        led.stopAnimation()
+        basic.clearScreen()
+        music.stopAllSounds()
+        init()
+        reset = 1
+    }
+})
 input.onButtonPressed(Button.B, function () {
     if (stage == 0) {
         stage = -1
@@ -201,10 +215,11 @@ let player_letters: string[] = []
 let current_player = 0
 let players = 0
 let stage = 0
-init()
-basic.showString("Delivera")
-stage = 0
-show_compact_number(players)
+let reset = 0
+led.stopAnimation()
+basic.clearScreen()
+music.stopAllSounds()
+reset = 1
 basic.forever(function () {
 	
 })
