@@ -1,7 +1,7 @@
 
 This is the assistant to the board game I have made: Delivera. For more about this game, click [here](game.md)
 
-## Edit this project ![Build status badge](https://github.com/maytha8/board-game-assistant/workflows/MakeCode/badge.svg)
+## Edit this project ![Build status badge](https://github.com/maytha8/delivera-board-game-assistant/workflows/MakeCode/badge.svg)
 
 To edit this repository in MakeCode.
 
@@ -14,7 +14,7 @@ To edit this repository in MakeCode.
 This image shows the blocks code from the last commit in master.
 This image may take a few minutes to refresh.
 
-![A rendered view of the blocks](https://github.com/maytha8/board-game-assistant/raw/master/.github/makecode/blocks.png)
+![A rendered view of the blocks](https://github.com/maytha8/delivera-board-game-assistant/raw/master/.github/makecode/blocks.png)
 
 #### Metadata (used for search, rendering)
 
