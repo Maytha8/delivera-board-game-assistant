@@ -48,3 +48,5 @@ This game is suitable for players 8+ years old and this board game is designed t
 
 ### To Win
 The first player to deliver all three packages wins the game.
+
+<style>h1{display:none;}h1#delivera{display:block;padding:0;margin-top:0;margin-bottom:0;border:none;}</style>
