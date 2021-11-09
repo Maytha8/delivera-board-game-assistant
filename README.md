@@ -3,7 +3,7 @@
 
 This is the assistant to the board game I have made: Delivera. For more about this game, click [here](/docs/game.md)
 
-## Edit this project ![Build status badge](https://github.com/maytha8-delivera-board-game-assistant/workflows/MakeCode/badge.svg)
+## Edit this project ![Build status badge](https://github.com/maytha8/delivera-board-game-assistant/workflows/MakeCode/badge.svg)
 
 To edit this repository in MakeCode.
 
