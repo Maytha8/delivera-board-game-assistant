@@ -15,7 +15,7 @@ This game is suitable for players 8+ years old and this board game is designed t
 - Micro:bit (v1 or v2 can be used)
 - A standard 6-sided dice
 - A counter for each player ('packages' refers to the counters)
-- The board (can be downloaded [here](Board%20Game%20Delivera.pdf)
+- The board (can be downloaded [here](Board%20Game%20Delivera.pdf))
 
 ### Incorporation of Micro:bit
 The Micro:bit gives each player from where to start their delivery and where to deliver their package to. When a player finishes delivering a package, the Micro:bit tells the player what their next delivery is. The Micro:bit also acts as a counter, counting how many deliveries each player has completed, and it declares a winner when a player finishes all three deliveries.
