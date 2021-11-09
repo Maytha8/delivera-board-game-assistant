@@ -143,10 +143,10 @@ function init () {
 }
 input.onButtonPressed(Button.AB, function () {
     if (reset) {
+        reset = 0
         basic.showString("Delivera")
         stage = 0
         show_compact_number(players)
-        reset = 0
     } else {
         led.stopAnimation()
         basic.clearScreen()
