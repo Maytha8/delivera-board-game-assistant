@@ -1,7 +1,7 @@
 # Delivera
 **A board game by [Maytha8](https://github.com/Maytha8)**
 
-<img src="/Maytha8/board-game-assistant/raw/master/docs/player-requirements.png" alt="Player requirements" style="max-width: 100%;height: 60px;">
+<img src="player-requirements.png" alt="Player requirements" style="max-width: 100%;height: 60px;">
 
 This game was made as part of a school assessment.
 
