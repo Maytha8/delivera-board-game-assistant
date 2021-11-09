@@ -13,12 +13,19 @@ This game is suitable for players 8+ years old and this board game is designed t
 - Micro:bit (v1 or v2 can be used)
 - A standard 6-sided dice
 - A counter for each player ('packages' refers to the counters)
-- The board (can be downloaded [here](Board%20Game%20Delivera.pdf))
+- The board (can be downloaded at https://maytha8.github.io/delivera-board-game-assistant/game.html)
 
 ### Instructions
 
-#### Setup
-1. Download the code onto the Micro:bit if you haven't done so already by following the instructions [here](README.md) for editing the code, then downloading the code onto the Micro:bit.
+#### Micro:bit Setup
+1. Go to https://makecode.microbit.org
+2. Click on 'Import' then click on 'Import URL'
+3. Type in https://github.com/maytha8/delivera-board-game-assistant and click 'Import'
+4. Press 'Download' and wait for hex file to download
+5. Plug in Micro:bit and move the hex file onto the Micro:bit
+
+#### Game Setup
+1. Download the code onto the Micro:bit if you haven't done so already by following the steps above.
 2. Decide who will be Player A, B, C, etc.
 3. Press Button A and Button B at the same time on the Micro:bit to start the assistant and wait for the intro to finish. The number 2 will appear. Press Button A to change the amount of players there are, and press Button B to confirm your selection.
 4. Each player must pay attention as each player's first delivery will appear on the Micro:bit's screen. A letter corresponding to a player will appear, then their starting location, then an arrow, then the location they will be delivering to.
