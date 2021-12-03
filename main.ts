@@ -193,20 +193,21 @@ input.onButtonPressed(Button.B, function () {
             basic.showString("" + player_letters[current_player] + " wins!")
             basic.clearScreen()
             music.stopAllSounds()
+        } else {
+            player_progress.insertAt(current_player, player_progress[current_player] + 1)
+            basic.clearScreen()
+            basic.pause(1000)
+            show_compact_number(locations.removeAt(randint(0, locations.length - 1)))
+            basic.pause(1000)
+            basic.showArrow(ArrowNames.East)
+            basic.pause(1000)
+            show_compact_number(locations.removeAt(randint(0, locations.length - 1)))
+            basic.pause(1000)
+            basic.clearScreen()
+            basic.pause(1000)
+            current_player = 0
+            basic.showString("" + (player_letters[current_player]))
         }
-        player_progress.insertAt(current_player, player_progress[current_player] + 1)
-        basic.clearScreen()
-        basic.pause(1000)
-        show_compact_number(locations.removeAt(randint(0, locations.length - 1)))
-        basic.pause(1000)
-        basic.showArrow(ArrowNames.East)
-        basic.pause(1000)
-        show_compact_number(locations.removeAt(randint(0, locations.length - 1)))
-        basic.pause(1000)
-        basic.clearScreen()
-        basic.pause(1000)
-        current_player = 0
-        basic.showString("" + (player_letters[current_player]))
     }
 })
 let player_progress: number[] = []
