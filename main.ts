@@ -219,6 +219,7 @@ let reset = 0
 led.stopAnimation()
 basic.clearScreen()
 music.stopAllSounds()
+init()
 reset = 1
 basic.forever(function () {
 	
